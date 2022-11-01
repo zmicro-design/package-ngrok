@@ -1,4 +1,4 @@
 NAME=ngrok
-VERSION=v0.0.0
+VERSION=v1.0.0
 MODULE=package
 DESCRIPTION="Highly opinionated MTPROTO proxy for Telegram"
